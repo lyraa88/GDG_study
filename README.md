@@ -1,3 +1,3 @@
 # GDG_study
 
-### GDG_study_Ai/Ml_practice_code
+### GDG_study_AI/ML_practice_code
